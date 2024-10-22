@@ -1,6 +1,6 @@
 # Bakar Controller
 
-Controller app for ![Bakar Robot](https://github.com/OpetBrebet/BakarRobot)
+Controller app for [Bakar Robot](https://github.com/OpetBrebet/BakarRobot)
 
 <img src="Screenshot1.png" width=30%> &nbsp; <img src="Screenshot2.png" width=30%> &nbsp; <img src="Screenshot3.png" width=30%>
 
